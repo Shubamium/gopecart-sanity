@@ -2,7 +2,7 @@ import { defineType } from "sanity";
 
 export default defineType({
 	name:'commission',
-	type:'document',
+	type:'object',
 	fields:[
 		{
 			name:'title',
